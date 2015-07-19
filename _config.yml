@@ -3,7 +3,7 @@ title:
 email: hj7.com@gmail.com
 description: > 通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://hejie.github.io" # the base hostname & protocol for your site
+url: "http://hejie.git" # the base hostname & protocol for your site
 
 
 # Sidebar filter
