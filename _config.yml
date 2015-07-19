@@ -1,0 +1,35 @@
+# Site settings
+title: 
+email: hj7.com@gmail.com
+description: > 通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hejie.com" # the base hostname & protocol for your site
+
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'tag'
+
+
+# Social account
+# twitter:  username
+  weibo:    epad
+  github:   hejie
+# codepen:  username
+# dribbble: username
+
+
+# Comment
+# disqus_shortname: discussion_shortname
+
+
+# Google Analytics
+# google_analytics: tracking_ID
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
