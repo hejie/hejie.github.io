@@ -1,8 +1,8 @@
 # Site settings
 title: 呜呜呜呜
 email: hj7.com@gmail.com
-description: > 通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间
- 
+description: "通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间" 
+
 baseurl: "/hejie.github.io" # the subpath of your site, e.g. /blog/
 
 permalink: /:year/:title 
