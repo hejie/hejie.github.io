@@ -5,7 +5,7 @@ description: > 通过博客，我们可以记录自己的生活和成长的轨�
  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hejie.blog" # the base hostname & protocol for your site
- 
+permalink: /:year/:title
 
 
 # Sidebar filter
